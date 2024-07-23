@@ -1,0 +1,1 @@
+CREATE SCHEMA `devcamp_sql_project` ;
